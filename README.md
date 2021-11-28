@@ -3,7 +3,7 @@ Progressive GAN on celebrity faces (<a href="https://colab.research.google.com/d
 
 <img src="media/anim1.gif"> <img src="media/anim2.gif">
 
-<img src="media/img1.png"> <img src="media/img2.png"> <img src="media/img3.png">
+<img src="media/img1.png"> <img src="media/img2.png"> <img src="media/img3_fix.png">
 
 <img src="media/img4.png"> <img src="media/img5.png"> <img src="media/img6.png">
 
