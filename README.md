@@ -11,9 +11,3 @@ Progressive GAN on celebrity faces (<a href="https://colab.research.google.com/d
 <img src="media/img4.png"> <img src="media/img5.png"> <img src="media/img6.png">
 
 <img src="media/img7.png"> <img src="media/img8.png"> <img src="media/img9.png">
-
-
-## To run:
-```python
-python generate_face.py
-```
